@@ -2,7 +2,7 @@
 A web page downloader. Uses the wget command found in \*nix operating systems. 
 This program uses the ANSI C 99 libraries (The default ones)
 
-Tested in Ubuntu MATE 18.04 with GCC 7.4.0 *Passes*
+Tested in Ubuntu MATE 18.04 with GCC 7.4.0. Working
 
 # WARNINGS
   This is recommended to use with internet (to view the pages) because there are some web pages that can't work offline. (for example: images aren't downloaded) 
