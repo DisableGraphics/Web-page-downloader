@@ -10,7 +10,7 @@ Tested in Ubuntu MATE 18.04 with GCC 7.4.0. Working
   There is a bug with the scanf function in C and GCC (IDE users won't have this issue) that makes you introduce the URL twice.               
   Press enter and then introduce the URL.
 
-  If you want it to work on Windows NT, grab a copy of wget.exe (https://eternallybored.org/misc/wget/) 
-  In Windows, when I tried to test the program, the antivirus thought this program was a virus. Any Issues related to anomalies with the antivirus won't be answered.
+  If you want it to work on Windows NT, grab a copy of wget.exe (https://eternallybored.org/misc/wget/). 
+  Also, in Windows, when I tried to test the program, the antivirus thought this program was a virus. Any Issues related to anomalies with the antivirus won't be answered.
 # Compilation
 Use gcc or import it to your favorite IDE. 
