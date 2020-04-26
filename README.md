@@ -11,6 +11,6 @@ Tested in Ubuntu MATE 18.04 with GCC 7.4.0. Working
   Press enter and then introduce the URL.
 
   If you want it to work on Windows NT, grab a copy of wget.exe (https://eternallybored.org/misc/wget/). 
-  Also, in Windows, when I tried to test the program, the antivirus thought this program was a virus. Any Issues related to anomalies with the antivirus won't be answered.
+  Also, in Windows, when I tried to test the program, the antivirus thought that it was a virus(it's not). Any Issues related to anomalies with the antivirus won't be answered.
 # Compilation
 Use gcc or import it to your favorite IDE. 
