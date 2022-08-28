@@ -4,11 +4,12 @@
 
 /*English is not my main language. If you notice something wrong, please modify it. It's everyone's code ;)*/
 
-char url[1024];
-char command[1111];
+
 
 int main(int argc, char** argv)
 {
+	char url[1024];
+	char command[1111];
 	if(argc > 1){ 	
 		/*If there are arguments, no need to scanf the web page to download*/
 		strcpy(command, "wget -m -F -p -np -k -erobots=off -U mozilla --limit-rate=50K --wait=2 --html-extension ");
