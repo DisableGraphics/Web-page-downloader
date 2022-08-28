@@ -1,6 +1,6 @@
 # Web-page-downloader
-A web page downloader. Uses the wget command found in \*nix operating systems. 
-This program uses the ANSI C 99 libraries (The default ones)
+A web page downloader. Requires the wget command found in \*nix operating systems. 
+This program uses the ANSI C 99 libraries (The standard libraries, no weird dependencies needed)
 
 Tested in Ubuntu MATE 18.04 with GCC 7.4.0. Working
 
